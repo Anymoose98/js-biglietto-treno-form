@@ -43,7 +43,5 @@ button.addEventListener("click", function(){
 
     document.getElementById("carrozza").innerHTML = document.getElementById("carrozza").innerHTML + "Carrozza"
     document.getElementById("n-carrozza").innerHTML = document.getElementById("n-carrozza").innerHTML + "278438"
-    
-
 })
 
