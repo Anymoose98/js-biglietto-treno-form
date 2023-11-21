@@ -19,3 +19,12 @@ Consigli:
 Rispettate le milestone., non andate avanti se non avete completato prima quella precedente.
 Nota:
 Se non vi sentite particolarmente creativi, questa potrebbe essere un’implementazione da seguire per il secondo milestone. Potete scegliere di implementare una soluzione completamente diversa oppure simile, ma in ogni caso cercate di farla vostra.
+
+
+1. Numero di chilometri da percorrere
+2. Età del passeggero
+3. calcolo del costo del biglietto
+ 3.1 Ogni km moltiplicato per 0,21 Euro(costo singolo km)
+ 3.2 Se minorenne 20% sconto
+ 3.3 Se over 65 40% sconto
+ 
