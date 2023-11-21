@@ -34,4 +34,16 @@ button.addEventListener("click", function(){
       prezzo = prezzo.toFixed(2)
       console.log(prezzo)      
     }
+
+    document.getElementById("cognome2").innerHTML = document.getElementById("cognome2").innerHTML + cognome
+    document.getElementById("nome2").innerHTML = document.getElementById("nome2").innerHTML + nome
+
+    document.getElementById("costo").innerHTML = document.getElementById("costo").innerHTML + "Costo biglietto:"
+    document.getElementById("prezzo").innerHTML = document.getElementById("prezzo").innerHTML + prezzo
+
+    document.getElementById("carrozza").innerHTML = document.getElementById("carrozza").innerHTML + "Carrozza"
+    document.getElementById("n-carrozza").innerHTML = document.getElementById("n-carrozza").innerHTML + "278438"
+    
+
 })
+
